@@ -3,7 +3,7 @@ title: "Using Wearable Brain Sensing Glasses during Zero-G Flight for Hyperscann
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-10
+date: 2023-10-17
 venue: 'ASCEND 2023'
 paperurl: 'https://arc.aiaa.org/doi/10.2514/6.2023-4656'
 citation: 'Nataliya Kosmyna, Daniel Hails, Eugene Hauptmann, Christopher Markus, Zoe Lee, Gun Bolukbasi and Minsol Kim. (2023). &quot; Using wearable brain sensing glasses during zero-G flight for hyperscanning: Preliminary study.&quot; <i>Journal 1</i>. 1(1).'
