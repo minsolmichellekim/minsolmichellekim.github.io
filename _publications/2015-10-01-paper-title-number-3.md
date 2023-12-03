@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Multi-Modal Brain-Computer Interface (BCI) Glasses: Integrating Few-Channel fNIRS, EEG, and EOG to Robustly and Practically Monitor Cognitive Load"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/Multi-Modal_BCI_FewChannels_CognitiveLoad
+excerpt: 'This study introduces BCI glasses, a consumer-friendly device integrating EEG, fNIRS, and EOG channels for improved accuracy in cognitive tasks, marking a significant step toward addressing challenges in mainstream adoption of consumer-grade BCIs.'
+date: 2023-07-30
+paperurl: 'http://minsolmichellekim.github.io/files/Multi-Modal_BCI_FewChannels_CognitiveLoad.pdf'
+citation: 'Karim El Adl, Minsol Kim, Nataliya Kosmyna. (2023). &quot;Multi-Modal Brain-Computer Interface (BCI) Glasses: Integrating Few-Channel fNIRS, EEG, and EOG to Robustly and Practically Monitor Cognitive Load.&quot. July 2023.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This work presents a few-channel brain-computer interface (BCI) device that integrates multiple sensing modalities into a glasses form-factor practical for everyday use. In the last decade a rapidly growing number of BCI studies have utilized multiple brain-sensing modalities to exploit their complementary information content and differing error sources. They demonstrated, using research-grade devices with dozens of data channels, that a multimodal approach can improve the accuracy, robustness, information transfer rate, and ease of use of BCI systems. These factors remain a challenge for non-invasive BCIs, especially the compact consumer-grade devices that have been developed and commercialized in recent years. The goal of this project was to help alleviate these issues which have limited the usefulness and prevented the widespread adoption of consumer BCIs. To the best of our knowledge, we have developed a prototype of the first BCI device to integrate both electrophysiological sensing and hemodynamic sensing into a compact wearable device suitable for consumers. More specifically, our BCI glasses fuse two electroencephalography (EEG) channels, four functional near-infrared spectroscopy (fNIRS) channels, and one electrooculography (EOG) channel while retaining a comfortable and socially acceptable design. In this study, we validated this platform by having 14 subjects perform a cognitive load task consisting of mental arithmetic with visual, auditory, and imagined stimuli. Offline classification using an SVM produced an increased average accuracy of 76.3% compared with 69.6% and 65.4% for EEG and fNIRS respectively. We conclude that the integration of few-channel fNIRS and EEG into practical form factors could help overcome several of the challenges holding back the adoption of consumer BCIs.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://academicpages.github.io/files/Modal_BCI_FewChannels_CognitiveLoad.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
