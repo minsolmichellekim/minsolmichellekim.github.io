@@ -5,10 +5,13 @@ type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
 date: 2014-01-01
-location: "City, Country"
+location: "Wellesley, MA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Led weekly support hours, troubleshooted softwares, and graded assignments for 30 students on average.
+Guided MVP developments, assisting A-Frame AR & VR, Flora, Arduino, Circuits, and DALL-E labs for 20 students.
+
+[CS320 Website Link](https://cs.wellesley.edu/~tui/)
 
 Heading 1
 ======
