@@ -6,6 +6,11 @@
    Breadcrumb navigation links
    ========================================================================== */
 
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+
 .breadcrumbs {
   @include container;
   @include clearfix;
