@@ -12,12 +12,3 @@ Led weekly support hours, troubleshooted softwares, and graded assignments for 3
 Guided MVP developments, assisting A-Frame AR & VR, Flora, Arduino, Circuits, and DALL-E labs for 20 students.
 
 [CS320 Website Link](https://cs.wellesley.edu/~tui/)
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
