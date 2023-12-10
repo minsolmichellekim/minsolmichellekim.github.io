@@ -16,4 +16,4 @@ In addition, I am working with MIT-IBM AI Watson Lab for developing ML models in
 
 I am also passionate about fostering environment for Growth. I am team coach (GEL2) at MIT Gordon Engineering Leadership Program.  
 
-For a more updated website, please visit: [www.minsolmichellekim.com](http://www.minsolmichellekim.com)
+For a more updated website, please visit: [www.minsolmichellekim.com](https://www.minsolmichellekim.com)
